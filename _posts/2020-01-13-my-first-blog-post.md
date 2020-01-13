@@ -1,2 +1,3 @@
-2020-01-13
-first blog post
+------
+title: "first blog post"
+date:"2020-01-13"
